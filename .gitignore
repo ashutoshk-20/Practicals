@@ -1,5 +1,13 @@
 data/
 venv/
 dl/.ipynb_checkpoints/
-models/
-mlartifacts/
+
+**/models/
+**/mlartifacts/
+**/mlruns/
+**/mlruns_*
+
+*.pkl
+*.joblib
+*.h5
+__pycache__/
