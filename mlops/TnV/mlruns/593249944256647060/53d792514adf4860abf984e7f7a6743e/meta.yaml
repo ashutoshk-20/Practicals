@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/593249944256647060/53d792514adf4860abf984e7f7a6743e/artifacts
+deleted_time: 1745150089794
+end_time: 1745149870778
+entry_point_name: ''
+experiment_id: '593249944256647060'
+lifecycle_stage: deleted
+run_id: 53d792514adf4860abf984e7f7a6743e
+run_name: stately-sloth-918
+run_uuid: 53d792514adf4860abf984e7f7a6743e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745149870650
+status: 4
+tags: []
+user_id: Ashutosh

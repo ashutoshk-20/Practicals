@@ -7,3 +7,4 @@ seaborn
 scipy
 hmmlearn
 opencv-python
+mlflow
